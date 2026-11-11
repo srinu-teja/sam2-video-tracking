@@ -1,0 +1,23 @@
+# Checkpoints and weights
+checkpoints/
+*.pt
+*.pth
+
+# Datasets and archives
+DAVIS/
+*.zip
+*.tar.gz
+data/
+
+# Video outputs
+*.mp4
+*.avi
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+venv/
+env/
+.env
